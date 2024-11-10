@@ -1,8 +1,9 @@
 🚀 DevOps Project: Manage Spotify with Terraform!🎶
 
 
-
 I’m excited to share a hands-on DevOps project where you can create and manage Spotify playlists with Terraform, embracing the Infrastructure as Code (IaC) principles. This project provides a fantastic way to deepen your understanding of Terraform concepts like providers, data blocks, and more.
+
+![Screenshot 2024-11-10 152440](https://github.com/user-attachments/assets/c8b50d95-5ac0-4c6a-84d6-3e82552dac2e)
 
 
 🌟 Project Highlights
