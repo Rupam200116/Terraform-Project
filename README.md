@@ -5,6 +5,11 @@ I’m excited to share a hands-on DevOps project where you can create and manage
 
 ![Screenshot 2024-11-10 152440](https://github.com/user-attachments/assets/c8b50d95-5ac0-4c6a-84d6-3e82552dac2e)
 
+![Screenshot 2024-11-10 134934](https://github.com/user-attachments/assets/952ae795-6f2e-49bb-80cf-7174ce8d2175)
+
+![Screenshot 2024-11-10 155337](https://github.com/user-attachments/assets/6e5540a9-0d98-4190-afa5-70b6e96dc949)
+
+![Screenshot 2024-11-10 155610](https://github.com/user-attachments/assets/e6a958cf-9a1e-42a0-9e90-ad50b5ca24f4)
 
 🌟 Project Highlights
 
